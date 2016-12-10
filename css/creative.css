@@ -55,6 +55,7 @@ p {
 .text-faded {
   color: #FFFFFF;
   text-shadow: 1px 1px #000000;
+  font-family: "Arial Black", Gadget, sans-serif;
 }
 section {
   padding: 100px 0;
@@ -461,8 +462,9 @@ ul.pagination li a {
 }
 
 #header{
-color:#87CEFA;
+color: #E6E6FA;
 text-shadow: 1px 1px #000000;
+font-family: "Arial Black", Gadget, sans-serif;
 
 }
 
@@ -475,7 +477,7 @@ padding-bottom: 20px;
 }
 
 #homeHeading{
-  color:#87CEFA;
+  color:#663399;
   text-shadow: 1px 1px #000000 ;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
