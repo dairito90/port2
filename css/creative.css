@@ -349,7 +349,7 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: black;
-  background-color:#337ab7 ;
+  background-color:#808080 ;
   border-color: #F05F40;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
@@ -477,13 +477,13 @@ padding-bottom: 20px;
 }
 
 #homeHeading{
-  color:#663399;
+  color:#E6E6FA;
   text-shadow: 1px 1px #000000 ;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 #about{
-background-color: #337ab7;
+background-color: #708090;
 
 
 }
