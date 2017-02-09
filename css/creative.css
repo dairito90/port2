@@ -53,9 +53,9 @@ p {
 
 }
 .text-faded {
-  color: #FFFFFF;
-  text-shadow: 1px 1px #000000;
-  font-family: "Arial Black", Gadget, sans-serif;
+  color:black;
+  font-size: 2em;
+  font-family: "Georgia", sans-serif;
 }
 section {
   padding: 100px 0;
@@ -235,6 +235,7 @@ header .header-content .header-content-inner p {
   margin-bottom: 0;
 }
 .portfolio-box {
+
   position: relative;
   display: block;
   max-width: 650px;
@@ -523,4 +524,9 @@ input[type=submit]{
 
 * {
     font-family: "Georgia";
+}
+
+#port {
+    text-align: center;
+    font-size: 2.3em;
 }
