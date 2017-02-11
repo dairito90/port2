@@ -15,6 +15,6 @@ $('a.portfolio-box').click(function(e){
 });
 
 $(".eachProject").click(function(){
-    var aux = $(".eachProject :first-child");
+    var aux = $(this).children();
     window.open(aux.attr("href"), '_blank');
 });
